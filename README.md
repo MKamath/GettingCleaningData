@@ -16,7 +16,7 @@ Please follow the steps given below to perform the analysis:-
    written to work in the same OS. To use in another OS, the only difference would be in the 
    variable "delimiter". Please change the delimiter to suit your OS.
 
-4) Once these changes are completed, simply type source("run_analysis.R") in Rstudio. This 
+4) Once these changes are completed, simply type source("run_analysis.R") in RStudio. This 
    will automatically start the execution of the code within.
 
 5) The code was written with the assumption that there is no change made to the contents of
