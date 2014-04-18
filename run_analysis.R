@@ -1,4 +1,4 @@
-## Set the path to the directory
+## Set the path to the directory containing "UCI HAR Dataset"
 ## PLEASE NOTE!! CHANGE "..." to the path the folder which contains the UCI HAR Dataset
 
 delimiter <- "\\"
